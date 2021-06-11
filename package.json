@@ -1,0 +1,11 @@
+{
+  "name": "netlify-request-repro",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Matt Tingen <matt.tingen@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "http-server src"
+  },
+  "dependencies": {}
+}
